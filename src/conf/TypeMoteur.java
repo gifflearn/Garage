@@ -1,0 +1,3 @@
+package conf;
+
+public enum TypeMoteur {DIESEL,ESSENCE,HYBRIDE,ELECTRIQUE}
